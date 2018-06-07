@@ -10,7 +10,6 @@ Basic list app made with Vue.js and thank you to Gary Simon for tutorial and cod
 4. open http://localhost:8080/ 
 
 Terms to know: 
-# Component structure: <template>, <script>, <style>
-# Features: 'interpolations' use {{ }} & 'directives' are attributes with a v- [ex: v-bind, v-on, v-if, v-text, etc]
+Vue component structure: <template>, <script>, <style> && Vue features: 'interpolations' use {{ }} while 'directives' are attributes with a v- [ex: v-bind, v-on, v-if, v-text, etc]
 
 
